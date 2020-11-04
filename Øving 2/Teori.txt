@@ -1,0 +1,8 @@
+Hva er en synlighetsmodifikator?
+Synlighetsmodifikatoren sier noe om (hvor synelig / scopet til) variablen, metoden, konstruktøren, eller klassen skal være utenfor klassen.
+Man har public, private, default og protected.
+
+
+Hva er forskjellen på private og public og når brukes de?
+Private brukes når variablen, metoden, konstruktøren, eller klassen ikke skal være synelig/tilgjengelig utenfor klassen.
+Public brukes når man ønsker at variablen, metoden, konstruktøren, eller klassen skal være synelig/tilgjengelig utenfor klassen.
